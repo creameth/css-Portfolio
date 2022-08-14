@@ -1,2 +1,2 @@
-# this is the project's README file 
-## replace me after a revision
+# This is my portfolio project
+## I will revise it after making changes 
